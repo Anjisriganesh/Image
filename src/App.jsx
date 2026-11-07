@@ -16,7 +16,7 @@ const App = () => {
   }
   return (
     <div>
-      <h1>This is Siri</h1>
+      <h1>This is Rupa</h1>
       <input onChange={Handlerow} type='number'/> 
       <input onChange={Handlecol}type='number'/>
       <button onClick={display}>Submit</button>
