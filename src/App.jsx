@@ -16,6 +16,7 @@ const App = () => {
   }
   return (
     <div>
+      <h1>This is Ganesh</h1>
       <input onChange={Handlerow} type='number'/> 
       <input onChange={Handlecol}type='number'/>
       <button onClick={display}>Submit</button>
